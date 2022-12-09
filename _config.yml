@@ -39,21 +39,21 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: emmanuel.mazurier@gmail.com
+  email: marinperrs@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: manumazu
-  github: manumazu
-  twitter: manumazu
+#  facebook: 
+#  github: 
+#  twitter: 
 # patreon: DeanAttali
-  youtube: user/mrmanumazu
+#  youtube: user/
 # medium: yourname
 # reddit: yourname
-  linkedin: emmanuelmazurier
+  linkedin: Marin Péres
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+  instagram: mar.ndsg
+  spotify: Marin Peres
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -82,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "manumazu.github.io"
+#url-pretty: ""
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -97,7 +97,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "portfolio,DNMade,PERES,PÉRES,Marin"
 
 # --- Colours / background image --- #
 
