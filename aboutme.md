@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Me concernant ...
-subtitle: Voici comment bien présenter ma page
+title: Me concernant
 ---
 
 Je m'appelle PÉRES Marin et je suis designer 3D
