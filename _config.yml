@@ -103,7 +103,7 @@ keywords: "portfolio,DNMade,PERES,PÉRES,Marin"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#F2E8DC"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
