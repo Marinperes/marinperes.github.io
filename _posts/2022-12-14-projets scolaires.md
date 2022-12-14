@@ -20,4 +20,4 @@ Cette petite vidéo est réalisé afin de sensibiliser le grands public à la po
 
 Réalisation d’une scénographie interactive au travers de la réalité augmentée.
 
-![Qiff1](assets/img/Capture-dcran-blender-1.png){: .mx-auto.d-block :}
+![Qiff1]((https://postimg.cc/ThvzP1LS][img]https://i.postimg.cc/ThvzP1LS/bar-2.png[/img][/url])){: .mx-auto.d-block :}
