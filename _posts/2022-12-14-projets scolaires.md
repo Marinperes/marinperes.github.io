@@ -11,7 +11,7 @@ comments: false
 
 Voici mes différents projets scolaires réalisées au cours des 3 dernières années.
 
-**Here is some bold text**
+# **Here is some bold text**
 
 ## Here is a secondary heading
 
