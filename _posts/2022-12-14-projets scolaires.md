@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mes projets perso !
+title: Mes projets scolaires !
 # subtitle: Each post also has a subtitle
 thumbnail-img: /assets/img/404-southpark.jpg
 tags: [scolaire, motion design]
