@@ -9,14 +9,14 @@ comments: false
 
 Voici mes différents projets scolaires réalisées au cours des 3 dernières années.
 
-#Sensibilisation à la pollution plastique
+## Sensibilisation à la pollution plastique
 
 Cette petite vidéo est réalisé afin de sensibiliser le grands public à la pollution plastique dans nos océans.
 
-![Pollution](https://www.youtube.com/watch?v=sqdEwO4ssbc){: .mx-auto.d-block :}
+![Pollution](){: .mx-auto.d-block :}
 
 
-#Workshop Qiff
+## Workshop Qiff
 
 Réalisation d’une scénographie interactive au travers de la réalité augmentée.
 
