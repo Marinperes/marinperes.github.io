@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mes projets scolaires !
+title: Mes projets scolaires
 # subtitle: Each post also has a subtitle
 thumbnail-img: /assets/img/Capture-dcran-blender-1.png
 tags: [scolaire, motion design]
