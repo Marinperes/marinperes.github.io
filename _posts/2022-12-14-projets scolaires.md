@@ -2,7 +2,7 @@
 layout: post
 title: Mes projets scolaires !
 # subtitle: Each post also has a subtitle
-thumbnail-img: /assets/img/404-southpark.jpg
+thumbnail-img: /assets/img/Capture-dcran-blender-1.png
 tags: [scolaire, motion design]
 comments: false
 ---
@@ -20,4 +20,4 @@ Cette petite vidéo est réalisé afin de sensibiliser le grands public à la po
 
 Réalisation d’une scénographie interactive au travers de la réalité augmentée.
 
-![Qiff1]((https://postimg.cc/ThvzP1LS][img]https://i.postimg.cc/ThvzP1LS/bar-2.png[/img][/url])){: .mx-auto.d-block :}
+![Qiff1](/assets/img/Capture-dcran-blender-1.png){: .mx-auto.d-block :}
