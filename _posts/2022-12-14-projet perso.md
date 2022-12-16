@@ -9,4 +9,4 @@ comments: false
 
 Voici les différents travaux que je réalise sur mon temps libre.
 
-![Océan](assets/img/untitl3ed.png){: .mx-auto.d-block :}
+![Océan](/assets/img/untitl3ed.png){: .mx-auto.d-block :}
