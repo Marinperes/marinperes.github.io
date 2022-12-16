@@ -4,7 +4,7 @@ title: Aurélien THOMAS
 subtitle: Artiste 3d
 cover-img: /assets/img/Aurélien thomas (2).png
 thumbnail-img: /assets/img/Aurélien thomas (1).png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Aurélien thomas (2).png
 tags: [inspiration]
 ---
 
