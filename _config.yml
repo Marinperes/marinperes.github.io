@@ -44,18 +44,18 @@ social-network-links:
 #  facebook: 
 #  github: 
 #  twitter: 
-# patreon: DeanAttali
+# patreon: 
 #  youtube: user/
 # medium: yourname
 # reddit: yourname
   linkedin: marin-péres
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+#  stackoverflow:
+#  snapchat: 
   instagram: mar.ndsg
 #  spotify: Marin Peres
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -75,7 +75,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   linkedin: true
   vk: false
