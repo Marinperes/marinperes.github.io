@@ -13,7 +13,7 @@ Voici mes différents projets scolaires réalisées au cours des 3 dernières an
 
 Cette petite vidéo est réalisé afin de sensibiliser le grands public à la pollution plastique dans nos océans.
 
-![Pollution](assets/img/Pollution plastique.png){: .mx-auto.d-block :}
+![Pollution](assets/img/Pollution plastique.png)(https://www.youtube.com/watch?v=sqdEwO4ssbc){: .mx-auto.d-block :}
 
 
 ## Workshop Qiff
