@@ -3,7 +3,7 @@ layout: post
 title: Aurélien THOMAS
 subtitle: Artiste 3d
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Aurélien thomas (2).png
 share-img: /assets/img/path.jpg
 tags: [inspiration]
 ---
