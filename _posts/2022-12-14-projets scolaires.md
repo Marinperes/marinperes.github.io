@@ -12,6 +12,7 @@ Voici mes différents projets scolaires réalisées au cours des 3 dernières an
 ## Sensibilisation à la pollution plastique
 
 Cette petite vidéo est réalisé afin de sensibiliser le grands public à la pollution plastique dans nos océans.
+Vous pouvez cliquer sur l'image pour la visionner!
 
 [![Pollution](/assets/img/Pollution plastique.png)](https://www.youtube.com/watch?v=sqdEwO4ssbc){: .mx-auto.d-block :}
 
