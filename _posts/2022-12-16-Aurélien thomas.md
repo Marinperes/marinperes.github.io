@@ -7,7 +7,6 @@ thumbnail-img: /assets/img/Aurélien thomas (1).png
 share-img: /assets/img/Aurélien thomas (2).png
 tags: [inspiration]
 ---
-
 HEY ✦
 
 I’M AURÉLIEN, I SPECIALIZE IN MOTION DESIGN, 3D & ART DIRECTION, WITH A FOCUS ON BRAND FILMS AND ENVIRONMENT DESIGN.
